@@ -57,15 +57,17 @@ React-Landing-Page/
 ├── package.json             # Project dependencies
 └── vite.config.js           # Vite configuration
 ```
-
-🚀 Getting Started
-Follow these steps to set up and run the project locally.
+---
+🚀 Getting Started : <br>
+Follow these steps to set up and run the project locally. <br>
 ✅ Prerequisites
 Ensure you have the following installed:
 
-Node.js (v16 or higher)
+Node.js (v16 or higher) <br>
 npm (comes with Node.js)
 A code editor like VS Code
+
+---
 
 📦 Installation
 1. Clone the repository:
@@ -75,20 +77,20 @@ cd React-Landing-Page
 2. Install dependencies:
 npm install
 
+---
+
 ▶️ Running the Application
 1. Start the development server:
 npm run dev
 
 2. Open the application:Open your browser and visit http://localhost:5173 to view the application.
 
+---
+
 🧱 Tech Stack
-
-
 
 Technology
 Description
-
-
 
 React
 JavaScript library for building UIs
@@ -104,7 +106,9 @@ Syntax extension for React components
 npm
 Package manager for JavaScript
 
-# 🤝 Contributing
+---
+
+🤝 Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.2. Create a new branch:
 git checkout -b feature/your-feature
@@ -121,9 +125,10 @@ Please ensure your code follows the project's coding standards and includes rele
 👨‍💻 Author
 Rohit Pakhre  
 
-## GitHub: @Rohit-Pakhre09  
+GitHub: @Rohit-Pakhre09  
 Email: pakhrerohit281@example.com
 
+---
 
 📄 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it for your own projects.

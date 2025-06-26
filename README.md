@@ -7,7 +7,8 @@
 
 A modern landing page template built with **React** and **Vite**, featuring a clean UI and reusable components optimized for desktop view. This project is designed with a scalable architecture, making it ideal for developers to build professional web applications with minimal setup.
 
-<img src="./src/assets/Landing Page.png">
+<img src="./src/assets/Landing Page.png"> <br>
+<p><b>Explanation Video: </b><a href="https://drive.google.com/file/d/1jg8V-Qen_7SJT86qpbsyp0x-rcONauSw/view?usp=sharing ">https://drive.google.com/file/d/1jg8V-Qen_7SJT86qpbsyp0x-rcONauSw/view?usp=sharing </a></p>
 
 ---
 
